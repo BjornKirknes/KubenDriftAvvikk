@@ -42,10 +42,22 @@ a {
 
 .center {
  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
- padding: 15px 25px;
+ padding: 10px 25px;
  text-align: center;
  color: white
 }
+
+.center2 {
+ font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+ padding: 5px 25px;
+ text-align: center;
+ color: white
+}
+
+.hidden {
+ display: none;
+}
+
 
 body {
   background-color: Black;
